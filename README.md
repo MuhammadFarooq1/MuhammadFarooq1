@@ -7,8 +7,6 @@
 - 📫 U can get in touch with me on the following platforms
 
 ### Connect with me:
-
-[<img align="left" alt="Pinterest    | Pinterest" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/pinterest.svg" />][pinterest]
 [<img align="left" alt="Facebook     | Facebook"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Twitter      | Twitter"   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn     | LinkedIn"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
