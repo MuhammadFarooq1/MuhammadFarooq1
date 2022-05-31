@@ -52,7 +52,7 @@
 <br /> 
 
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadFarooq1&repo=Star-Technical-.Net-Framework)](https://github.com/MuhammadFarooq1/BasicEcommerceApp-Core-PHP)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadFarooq1&repo=BasicEcommerceApp-Core-PHP)](https://github.com/MuhammadFarooq1/BasicEcommerceApp-Core-PHP)
 
 
 ---
