@@ -64,6 +64,20 @@
 [instagram]: https://www.instagram.com/farooqkhan574/
 [linkedin]: https://www.linkedin.com/in/muhammad-farooq-b54943215/
 
+[android]: https://
+[dotnet]: https://
+[vscode]: https://
+[html]: https://
+[css]: https://
+[js]: https://
+[react]: https://
+[nodejs]: https://
+[mongodb]: https://
+[terminal]: https://
+[sql]: https://
+[mysql]: https://
+[github]: https://github.com/MuhammadFarooq1
+
 
 
 <!---
