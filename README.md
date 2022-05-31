@@ -55,9 +55,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadFarooq1&repo=BasicEcommerceApp-Core-PHP)](https://github.com/MuhammadFarooq1/BasicEcommerceApp-Core-PHP)
 
 
----
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFarooq1&layout=compact)](https://github.com/MuhammadFarooq1/Responsive-Web-Design-Certification-300-hours-by-freeCodeCamp)
- -->
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFarooq1&layout=compact)](https://github.com/MuhammadFarooq1/BasicEcommerceApp-Node-JS)
+
 
 [facebook]: https://web.facebook.com/profile.php?id=100026270191414/
 [twitter]: https://twitter.com/MFarooq42297968
