@@ -38,7 +38,7 @@
   <summary>:zap: GitHub Stats</summary>
 <br /> 
    
-  <img align="left" alt="Adnan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MuhammadFarooq1&show_icons=true&hide_border=true&theme=dark" />
+  <img align="left" alt="M Farooq's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MuhammadFarooq1&show_icons=true&hide_border=true&theme=dark" />
 </details> 
 
 <br /> 
@@ -56,8 +56,8 @@
 
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFarooq1&layout=compact)](https://github.com/MuhammadFarooq1/Responsive-Web-Design-Certification-300-hours-by-freeCodeCamp)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFarooq1&layout=compact)](https://github.com/MuhammadFarooq1/Responsive-Web-Design-Certification-300-hours-by-freeCodeCamp)
+ -->
 
 [facebook]: https://web.facebook.com/profile.php?id=100026270191414/
 [twitter]: https://twitter.com/MFarooq42297968
